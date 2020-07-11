@@ -1,4 +1,4 @@
 # HackerRank
 HackerRank  solutions 
 <br>
-link to: [my profile](https://www.hackerrank.com/AnkitaGupta16)
+Link to my Profile: [Ankita Gupta](https://www.hackerrank.com/AnkitaGupta16)
